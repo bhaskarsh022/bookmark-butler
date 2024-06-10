@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icon128.png",
+         "16": "icon16.png",
+         "48": "icon48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "description": "Efficiently manage and organize browser sessions with Bookmark Butler.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyc+uBwHFprNRSBLPRc3pS0XG+RYU1+FOTObZDcImWc4KESvzqy/31Est2e4Q6pBAypoYHOQc4QKNyqCfVvaYizD5kLGRRqVMyoZUzWbLaJJD0ueuyJ2DTjCWZ1+/xXvYXzKgejyVy0O/RRgpE/mpsH3/9zh2AqqjXY5O6TCS5x84CbPtA56M44Qly/nbQBzwnmKuXWdkcqrElkW5W7jIq/MB7o4pCzHC+udBr5hlGwBE/wyQsRb9SFGHtRzqQT1oTAaDKFPT5g0uWNOCyuhKvJbVxS01IybYiUI8S9Pb9ZVokF09oRfV9mECPZCX8WLEslE1LIEGp0iCWRkV+9p2EwIDAQAB",
+   "manifest_version": 3,
+   "name": "Bookmark Butler",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}
